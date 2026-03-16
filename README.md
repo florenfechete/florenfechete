@@ -61,6 +61,6 @@ int main() {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-florenfechete-181717?style=for-the-badge&logo=github)](https://github.com/florenfechete)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-florentinogregoriofechete-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/florentinogregoriofechete)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-florentinogregoriofechete-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/florentino-gregorio-fechete-786392317)
 
 </div>
