@@ -1,16 +1,82 @@
-## Hi there 👋
+<div align="center">
+ 
+<!-- Banner animado -->
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hola,%20soy%20Floren%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=50" width="100%"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenieria+Informatica;Apasionado+por+C+y+Java;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
+ 
+</div>
+ 
+</div>
+ 
+---
 
-<!--
-**florenfechete/florenfechete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Sobre mí
 
-Here are some ideas to get you started:
+```c
+#include <stdio.h>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+int main() {
+    printf("Hola! Soy Floren Fechete\n");
+    printf("Estudiante de Ingeniería Informática\n");
+    printf("Actualmente aprendiendo: C y Java\n");
+    return 0;
+}
+```
+
+- 🎓 Estudiando **Ingeniería Informática**
+- 💻 Programando en **C** y **Java**
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+<div align="center">
+
+### Lenguajes
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Herramientas
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Proyectos destacados
+
+| Proyecto | Descripción | Tecnología |
+|---------|-------------|------------|
+| 📦 `gestion-estudiantes-c` | Bases de C | ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) |
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=florenfechete&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats"/>
+</div>
+
+---
+
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=florenfechete&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-florenfechete-181717?style=for-the-badge&logo=github)](https://github.com/florenfechete)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-florentinogregoriofechete-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/florentinogregoriofechete)
+
+</div>
