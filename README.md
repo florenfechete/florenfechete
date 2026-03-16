@@ -56,22 +56,6 @@ int main() {
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=florenfechete&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats"/>
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=florenfechete&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
